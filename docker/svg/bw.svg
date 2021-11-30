@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 82 82" style="enable-background:new 0 0 82 82;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#3060FE;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style>
+<path id="bg" class="st0" d="M24,9h34c8.3,0,15,6.7,15,15v34c0,8.3-6.7,15-15,15H24c-8.3,0-15-6.7-15-15V24C9,15.7,15.7,9,24,9z"/>
+<path id="bitwarden" class="st1" d="M41,64c-9.7-2.6-17-13.1-17-17V26c0-1.1,0.9-2,2-2h30c1.1,0,2,0.9,2,2v21
+	C58,50.9,50.7,61.4,41,64z M53,29H41v30c2,0,10.3-5.6,12-12V29z"/>
+</svg>
